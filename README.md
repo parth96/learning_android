@@ -1,3 +1,4 @@
 # learning_android
 hello world
-making some changes
+making some change
+again had something in mind 
